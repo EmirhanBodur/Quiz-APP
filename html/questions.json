@@ -1,26 +1,42 @@
 [
   {
-    "question": "Fatih terim hangi takımın efsanesidir?",
-    "choice1": "Beşiktaş",
-    "choice2": "Galatasaray",
-    "choice3": "Fenerbahçe",
-    "choice4": "Adanaspor",
+    "question": "JavaScript dilinde 'var', 'let' ve 'const' değişken tanımlama anahtar kelimeleri arasındaki fark nedir?",
+    "choice1": "'var' sadece fonksiyon kapsamında, 'let' ve 'const' ise blok kapsamında kullanılabilir.",
+    "choice2": "'let' ve 'const' sadece fonksiyon kapsamında, 'var' ise blok kapsamında kullanılabilir.",
+    "choice3": "'var' ve 'let' sadece fonksiyon kapsamında, 'const' ise blok kapsamında kullanılabilir.",
+    "choice4": "'let' sadece blok kapsamında, 'var' ve 'const' ise fonksiyon kapsamında kullanılabilir.",
     "answer": 1
   },
   {
-    "question": "Quaresma nerelediri?",
-    "choice1": "türkiye",
-    "choice2": "şanlıurfa",
-    "choice3": "portekiz",
-    "choice4": "almanya",
-    "answer": 3
+    "question": "React'te 'state' ve 'props' arasındaki fark nedir?",
+    "choice1": "'state', bileşen içinde değiştirilebilirken, 'props' sadece bir üst bileşen tarafından iletilen verileri içerir ve değiştirilemez.",
+    "choice2": "'state', sadece ana bileşenlerde kullanılırken, 'props' her bileşen tarafından kullanılabilir ve değiştirilebilir.",
+    "choice3": "'state' ve 'props' arasında temel bir fark yoktur, ikisi de aynı işlevi görür.",
+    "choice4": "'state', sadece fonksiyonel bileşenlerde kullanılırken, 'props' sadece sınıflı bileşenlerde kullanılır.",
+    "answer": 1
   },
   {
-    "question": " kahramanmaraş hangi ülkenin ilidir",
-    "choice1": "portekiz",
-    "choice2": "almanya",
-    "choice3": "amerika",
-    "choice4": "türkiye",
-    "answer": 4
+    "question": "React Hooks'taki 'useState' fonksiyonu ne işe yarar?",
+    "choice1": "Bir bileşenin durumunu güncellemek için kullanılır.",
+    "choice2": "Bir bileşenin özel fonksiyonlarını tanımlamak için kullanılır.",
+    "choice3": "Bir bileşenin başka bir bileşene veri aktarmak için kullanılır.",
+    "choice4": "Bir bileşenin render edilip edilmediğini kontrol etmek için kullanılır.",
+    "answer": 1
+  },
+  {
+    "question": "JavaScript'te 'map' fonksiyonu ne işe yarar?",
+    "choice1": "Dizinin belirli bir elemanını değiştirmek için kullanılır.",
+    "choice2": "Dizinin her elemanına belirli bir işlem uygulamak için kullanılır.",
+    "choice3": "Diziyi tersine çevirmek için kullanılır.",
+    "choice4": "Dizi içinde belirli bir elemanın var olup olmadığını kontrol etmek için kullanılır.",
+    "answer": 2
+  },
+  {
+    "question": "React'te 'useEffect' hook'u ne işe yarar?",
+    "choice1": "Bir bileşenin içindeki durumu güncellemek için kullanılır.",
+    "choice2": "Bir bileşenin yaşam döngüsüne müdahale etmek için kullanılır.",
+    "choice3": "Bir bileşenin içinde başka bir bileşeni çağırmak için kullanılır.",
+    "choice4": "Bir bileşenin başka bir bileşene veri iletmek için kullanılır.",
+    "answer": 2
   }
 ]
