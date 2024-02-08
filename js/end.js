@@ -5,7 +5,7 @@ const mostRecentScore = localStorage.getItem('mostRecentScore');
 
 const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
 
-const MAX_HIGH_SCORES = 15;
+const MAX_HIGH_SCORES = 5;
 
 finalScore.innerText = mostRecentScore;
 
@@ -22,8 +22,8 @@ saveHighScore = (e) => {
     };
     highScores.push(score);
     highScores.sort((a, b) => b.score - a.score);
-    highScores.splice(15);
+    highScores.splice(5);
 
     localStorage.setItem('highScores', JSON.stringify(highScores));
-    window.location.assign('index.html');
+    window.location.assign('../html/highscores.html');
 };

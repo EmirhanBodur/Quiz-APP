@@ -1,2 +1,4 @@
 # Quiz-APP
-Javascript ile yaptığım Quiz App
+
+
+Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit bir Quiz uygulamasını içerir. Kullanıcılar, hazırlanan soruları yanıtlayabilirler.

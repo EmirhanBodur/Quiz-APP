@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Fatih terim hangi takımın efsanesidir?",
+    "choice1": "Beşiktaş",
+    "choice2": "Galatasaray",
+    "choice3": "Fenerbahçe",
+    "choice4": "Adanaspor",
+    "answer": 1
+  },
+  {
+    "question": "Quaresma nerelediri?",
+    "choice1": "türkiye",
+    "choice2": "şanlıurfa",
+    "choice3": "portekiz",
+    "choice4": "almanya",
+    "answer": 3
+  },
+  {
+    "question": " kahramanmaraş hangi ülkenin ilidir",
+    "choice1": "portekiz",
+    "choice2": "almanya",
+    "choice3": "amerika",
+    "choice4": "türkiye",
+    "answer": 4
+  }
+]
